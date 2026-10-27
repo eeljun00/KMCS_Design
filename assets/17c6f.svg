@@ -1,0 +1,18 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="70" height="70" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="altitude">
+<mask id="mask0_0_19" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="70" height="70">
+<path id="Bounding box" d="M0.5 0.5H69.5V69.5H0.5V0.5Z" fill="#D9D9D9" stroke="#1A3026"/>
+</mask>
+<g mask="url(#mask0_0_19)">
+<g id="altitude_2">
+<path d="M4 60L19.7082 39.0231L32.8233 56.5042H58.9502L41.2854 33.0268L31.4161 46.1694L29.169 43.2368L41.2854 27.1129L65.945 60H4Z" fill="#1A3026"/>
+<path d="M54.8012 31.4384V16.6957L48.5353 22.8823L46.0994 20.4465L56.5497 10L67 20.4465L64.5641 22.9593L58.2982 16.6957V31.4384H54.8012Z" fill="#3A5A40"/>
+<mask id="stroke0_0_19" fill="white">
+<path d="M4 60L19.7082 39.0231L32.8233 56.5042H58.9502L41.2854 33.0268L31.4161 46.1694L29.169 43.2368L41.2854 27.1129L65.945 60H4Z"/>
+<path d="M54.8012 31.4384V16.6957L48.5353 22.8823L46.0994 20.4465L56.5497 10L67 20.4465L64.5641 22.9593L58.2982 16.6957V31.4384H54.8012Z"/>
+</mask>
+<path d="M54.8012 31.4384V16.6957L48.5353 22.8823L46.0994 20.4465L56.5497 10L67 20.4465L64.5641 22.9593L58.2982 16.6957V31.4384H54.8012ZM4 60L19.7082 39.0231L32.8233 56.5042H58.9502L41.2854 33.0268L31.4161 46.1694L29.169 43.2368L41.2854 27.1129L65.945 60H4Z" stroke-width="0.1" stroke="#3A5A40" mask="url(#stroke0_0_19)"/>
+</g>
+</g>
+</g>
+</svg>
